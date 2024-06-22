@@ -25,8 +25,7 @@ For each matched listing, use an LLM to rewrite the description in a way that hi
 Ensure personalization emphasizes characteristics appealing to the buyer without altering factual information about the property.
 Output the customer preferences, similar generated real estate listings and the personalized listing(s) as a text description of the listing.
 
-<img width="1006" alt="reson" src="https://github.com/fatma010/personalize_real_estate_listings/assets/73019838/f84c68ae-f31d-4a4a-9b14-4b4e156a9213">
-
+<img width="1089" alt="Ekran Resmi 2024-06-22 15 53 58" src="https://github.com/fatma010/personalize_real_estate_listings/assets/73019838/95f01fb2-0730-4921-b8b6-dddfd6d24222">
 
 
 
